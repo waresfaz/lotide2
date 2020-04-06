@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@waresfaz/lotide2",
   "version": "1.0.0",
-  "description": "",
+  "description": "a library of functions that can be used to evaluate arrays and objects. built for learning purposes",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/waresfaz/lotide2.git"
   },
-  "author": "",
+  "author": "@waresfaz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/waresfaz/lotide2/issues"
